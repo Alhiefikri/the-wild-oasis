@@ -1,5 +1,5 @@
 import Filter from "../../ui/Filter";
-import SortyBy from "../../ui/SortyBy";
+import SortyBy from "../../ui/SortBy";
 import TableOperations from "../../ui/TableOperations";
 
 function CabinTableOperations() {
