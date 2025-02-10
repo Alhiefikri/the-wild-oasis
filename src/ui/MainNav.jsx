@@ -4,6 +4,7 @@ import {
   HiOutlineCalendarDays,
   HiOutlineCog6Tooth,
   HiOutlineHome,
+  HiOutlineHomeModern,
   HiOutlineUsers,
 } from "react-icons/hi2";
 
@@ -70,7 +71,7 @@ function MainNav() {
         </li>
         <li>
           <StyledNavLink to="/cabins">
-            <HiOutlineCalendarDays />
+            <HiOutlineHomeModern />
             <span>Cabins</span>
           </StyledNavLink>
         </li>
